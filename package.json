@@ -1,0 +1,23 @@
+{
+  "name": "cwl-week2",
+  "version": "1.0.0",
+  "description": "Repository for week 2 first project",
+  "main": "''",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wismith/CWL-week2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wismith/CWL-week2/issues"
+  },
+  "homepage": "https://github.com/wismith/CWL-week2#readme"
+}
